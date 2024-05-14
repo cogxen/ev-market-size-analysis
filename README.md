@@ -32,12 +32,12 @@ The provided dataset contains the following columns, each representing different
 
 The primary objective of this analysis is to leverage historical EV registration data to understand the current market penetration of EVs, predict future market growth, and identify key trends and factors driving market expansion. The specific goals include:
 
-1. Analyze the growth of the population of electric vehicles over time; by year, to be specific.
-2. Understand the distribution of electric vehicles across different places such as by county, by city, or by state.
-3. Analyze the distribution of electric vehicles by type.
-4. Identify the most popular electric vehicle models.
-5. Analyze the distribution of electric vehicles by electric range.
-6. Find the estimated market size of electric vehicles.
+- [x] Analyze the growth of the population of electric vehicles over time; by year, to be specific.
+- [x] Understand the distribution of electric vehicles across different places such as by county, by city, or by state.
+- [x] Analyze the distribution of electric vehicles by type.
+- [x] Identify the most popular electric vehicle models.
+- [ ] Analyze the distribution of electric vehicles by electric range.
+- [ ] Find the estimated market size of electric vehicles.
 
 ## Additional Objectives
 
