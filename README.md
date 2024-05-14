@@ -36,13 +36,14 @@ The primary objective of this analysis is to leverage historical EV registration
 - [x] Understand the distribution of electric vehicles across different places such as by county, by city, or by state.
 - [x] Analyze the distribution of electric vehicles by type.
 - [x] Identify the most popular electric vehicle models.
-- [ ] Analyze the distribution of electric vehicles by electric range.
-- [ ] Find the estimated market size of electric vehicles.
+- [x] Analyze the distribution of electric vehicles by electric range.
+- [x] Find the estimated market size of electric vehicles.
 
 ## Additional Objectives
 
-- Working on it.
+- [ ] Provide insights on how different manufacturers and models are contributing to the advancements in electric vehicle technology, it also highlights the competition in the electric vehicle market.
+- [ ] Provide insights on the potential of the electric vehicle market in the US, it also helps businesses understand the competitive landscape and identify growth opportunities. 
 
 ## Acknowledgements
 
-This datasets are from **[Statso](https://statso.io/)**, a data-driven business consulting services. They are specialized in providing data-driven insights to help businesses grow, they leverage data to provide insights that help businesses make better decisions and build a successful data-driven business models.
+These datasets are from **[Statso](https://statso.io/)**, a data-driven business consulting services. They are specialized in providing data-driven insights to help businesses grow, they leverage data to provide insights that help businesses make better decisions and build a successful data-driven business models.
