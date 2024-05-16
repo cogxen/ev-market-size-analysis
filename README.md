@@ -52,3 +52,9 @@ The primary objective of this analysis is to leverage historical EV registration
 ## Acknowledgements
 
 These datasets are from **[Statso](https://statso.io/)**, a data-driven business consulting services. They are specialized in providing data-driven insights to help businesses grow, they leverage data to provide insights that help businesses make better decisions and build a successful data-driven business models.
+
+<div align="center">
+
+###### 1/100 
+
+</div>
