@@ -41,8 +41,13 @@ The primary objective of this analysis is to leverage historical EV registration
 
 ## Additional Objectives
 
-- [ ] Provide insights on how different manufacturers and models are contributing to the advancements in electric vehicle technology, it also highlights the competition in the electric vehicle market.
-- [ ] Provide insights on the potential of the electric vehicle market in the US, it also helps businesses understand the competitive landscape and identify growth opportunities. 
+- [x] Provide insights on how different manufacturers and models are contributing to the advancements in electric vehicle technology, it also highlights the competition in the electric vehicle market.
+- [x] Provide insights on the potential of the electric vehicle market in the US, it also helps businesses understand the competitive landscape and identify growth opportunities. 
+
+## Future Works
+
+- [ ] Do predictive analysis to forecast the future market size of electric vehicles, at least for the next 5 years.
+- [ ] Analyze why some electric vehicle models are more popular than others.
 
 ## Acknowledgements
 
