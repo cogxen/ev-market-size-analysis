@@ -1,3 +1,11 @@
+![banner](/assets/banner.png)
+
+<div align="center">
+
+###### #001
+
+</div>
+
 # Electric Vehicle Market Size Analysis
 
 [![Dataset Link Badge](https://img.shields.io/badge/dataset_link-market_size_of_evs-%23FFF8C9?style=for-the-badge)](https://statso.io/market-size-of-evs-case-study/)
@@ -52,8 +60,3 @@ The primary objective of this analysis is to leverage historical EV registration
 
 These datasets are from **[Statso](https://statso.io/)**, a data-driven business consulting services. They are specialized in providing data-driven insights to help businesses grow, they leverage data to provide insights that help businesses make better decisions and build a successful data-driven business models.
 
-<div align="center">
-
-###### 1/100 
-
-</div>
