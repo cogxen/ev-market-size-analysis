@@ -8,7 +8,7 @@
 
 # Electric Vehicle Market Size Analysis
 
-[![Dataset Link Badge](https://img.shields.io/badge/dataset_link-market_size_of_evs-%23FFF8C9?style=for-the-badge)](https://statso.io/market-size-of-evs-case-study/)
+[![Dataset Badge](https://img.shields.io/badge/dataset-market_size_of_evs-%23FFF8C9?style=for-the-badge)](https://github.com/cogxen/ev-market-size-analysis/blob/main/assets/dataset.csv)
 
 
 This report offers insights and visualizations and conducts a market size analysis of the electric vehicle (EV) industry. But what exactly is market size analysis? It helps businesses gauge the potential of a market, evaluate competition, and identify growth opportunities.
