@@ -39,17 +39,17 @@ The provided dataset contains the following columns, each representing different
 
 The primary objective of this analysis is to leverage historical EV registration data to understand the current market penetration of EVs, predict future market growth, and identify key trends and factors driving market expansion. The specific goals include:
 
-- [x] Analyze the growth of the population of electric vehicles over time; by year, to be specific.
-- [x] Understand the distribution of electric vehicles across different places such as by county, by city, or by state.
-- [x] Analyze the distribution of electric vehicles by type.
-- [x] Identify the most popular electric vehicle models.
-- [x] Analyze the distribution of electric vehicles by electric range.
-- [x] Find the estimated market size of electric vehicles.
+- [x] **Electric Vehicle Adoption Over time**: Analyze the yearly growth in the population of electric vehicles.
+- [x] **Geographic Distribution**: Understand how electric vehicles are distributed across various regions, including by county and city.
+- [x] **Electric Vehicle Type**: Examine the distribution of electric vehicles by their type.
+**Make and Model Popularity**: Identify the most popular makes and models of electric vehicles among registered users.
+- [x] **Electric Range Analysis**: Investigate the electric range of vehicles to track the technological advancements over time.
+- [x] **Estimate Market Size**: Determine the estimated market size for electric vehicles.
 
 ## Additional Objectives
 
-- [x] Provide insights on how different manufacturers and models are contributing to the advancements in electric vehicle technology, it also highlights the competition in the electric vehicle market.
-- [x] Provide insights on the potential of the electric vehicle market in the US, it also helps businesses understand the competitive landscape and identify growth opportunities.
+- [x] **Electric vehicle ranges vary among the top manufacturers and models**: This would provide us insights on how different manufacturers and models are contributing to the advancements in electric vehicle technology, it also highlights the competition in the electric vehicle market.
+- [x] **Market Size Analysis of EVs in the US**: This would provide us insights on the potential of the electric vehicle market in the US, it also helps businesses understand the competitive landscape and identify growth opportunities.
 
 ## Acknowledgements
 
